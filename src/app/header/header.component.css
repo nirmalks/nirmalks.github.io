@@ -1,0 +1,40 @@
+.navbar-custom {
+    background: #1ed5f3;
+    min-height: 50px;
+    padding: 25px;
+}
+
+.navbar-custom .navbar-brand, .navbar-custom .navbar-brand.active, .navbar-custom .navbar-brand:active, .navbar-custom .navbar-brand:focus, .navbar-custom .navbar-brand:hover, .navbar-custom .navbar-nav li a, header {
+    color: #fff;
+}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+    color: #333;
+    background-color: transparent;
+}
+.navbar-nav a:hover {
+    color: #333;
+}
+header .intro-text .name {
+    font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-transform: uppercase;
+}
+
+header {
+    text-align: center;
+    background: #4caf50;
+    margin-top: 80px;
+    padding: 50px;
+}
+
+header .container-fluid {
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+
+header .intro-text .name {
+    display: block;
+    font-weight: 700;
+    font-size: 2em;
+}
+

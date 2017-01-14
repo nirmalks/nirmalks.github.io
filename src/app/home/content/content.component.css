@@ -1,0 +1,49 @@
+.sebm-google-map-container {
+                height: 520px; 
+}
+
+li {
+    text-size: 2em;
+}
+
+
+.skills {
+    background:#FFECB3;
+  
+   padding: 25px;
+}
+
+.skill-img{
+    width:50px;
+    height: 100px;
+}
+
+.skills h4 span {
+    float: right;
+}
+
+.projects{
+      background:#3F51B5;
+     padding: 25px;
+     color: white;
+}
+
+.projects img {
+    width:300px;
+    height: 300px;
+}
+
+.courses {
+    background:#5e35b1;
+    color: white;
+}
+
+.course-item {
+      margin: 0 auto;
+    padding: 25px;
+}
+
+.experience {
+    padding: 25px;
+    background: #FFECB3;
+}
